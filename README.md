@@ -1,6 +1,6 @@
-<h1 align=center><b>Certificates<\b><\h1>
+<h1 align=center><b>Certificates</b></h1>
   
-<p><b>Here I upload all my achivement(Certificates) which I have achived.<\b><\p>
+<p><b>Here I upload all my achivement(Certificates) which I have achived.</b></p>
 
 
 - Coursera
