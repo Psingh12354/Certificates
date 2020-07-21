@@ -11,5 +11,6 @@
 - Virtual Internship
 - Coding Competition
 - Training
-
+- IEEE
+- Nptel *or* Swayam
 
