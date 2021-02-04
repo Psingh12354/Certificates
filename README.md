@@ -15,4 +15,7 @@
 - Nptel *or* Swayam
 - Dev
 - Flipkart
-
+- Internship
+- Microsoft
+- Isro 
+- Qwiklab
